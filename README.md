@@ -8,6 +8,8 @@
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](mailto:tesseractjh@gmail.com)
 
 <br />
+<br />
+<br />
   
 🛠 Tech Stack
   
@@ -33,6 +35,8 @@
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   
+<br />
+<br />
 <br />
 <br />
   
