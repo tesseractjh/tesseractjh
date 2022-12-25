@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm JunHong Lim.
   
-문제 해결을 두려워하지 않는 프론트엔드 개발자가 되기 위해 노력하고 있습니다! 🏃‍♂
+문제 해결을 두려워하지 않는 즐기는 프론트엔드 개발자가 되기 위해 노력하고 있습니다! 🏃‍♂
   
 [<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white" />](https://tesseractjh.tistory.com)
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](mailto:tesseractjh@gmail.com)
